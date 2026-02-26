@@ -1,2 +1,2 @@
-# basic-programing
+ c-programing
 basic code 
